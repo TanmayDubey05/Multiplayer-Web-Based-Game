@@ -67,7 +67,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any questions or feedback, please contact:
-- **Your Name**: [your-email@example.com](mailto:your-email@example.com)
+- **Your Name**: [your-email@example.com](tanmaydubey124@gmail.com)
 
 ## Acknowledgements
 - Inspiration for game mechanics and design.
